@@ -54,3 +54,6 @@ Submit app url and repo url to assaf@turnoverbnb.com
 
 - REACT on Frontend
   
+# ADMIN USER
+user: admin@admin.com
+pwd: 1234
