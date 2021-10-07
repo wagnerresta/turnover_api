@@ -45,7 +45,7 @@ Submit app url and repo url to assaf@turnoverbnb.com
 - Project deploy on heroku
    
 - Projet UI for run the project
-    - to go to my UI interface go to  https://deviget-minesweeper-ui.herokuapp.com
+    - to go to my UI interface go to  https://bankingsystem-turnoverbnb.herokuapp.com/
 
 - Structure of project
     - An API was created to manage the entire backend using Laravel 7
