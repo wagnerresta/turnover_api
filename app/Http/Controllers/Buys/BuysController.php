@@ -23,3 +23,4 @@ class BuysController extends Controller
     }
 }
 teste de branch
+testando a branch 02
